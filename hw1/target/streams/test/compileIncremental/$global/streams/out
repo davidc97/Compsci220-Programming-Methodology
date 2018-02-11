@@ -1,0 +1,70 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\cygwin64\home\David\compsci220\hw1\target\scala-2.10\test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 585b6e07, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_91\lib\resources.jar;C:\Program Files\Java\jre1.8.0_91\lib\rt.jar;C:\Program Files\Java\jre1.8.0_91\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_91\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_91\lib\jce.jar;C:\Program Files\Java\jre1.8.0_91\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_91\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_91\classes;C:\Users\David\.sbt\boot\scala-2.10.5\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\cygwin64\home\David\compsci220\hw1\target\scala-2.10\test-classes;C:\cygwin64\home\David\compsci220\hw1\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:2: object scalatest is not a member of package org[0m
+[0m[[31merror[0m] [0mclass TestSuite extends org.scalatest.FunSuite{[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:4: not found: value test[0m
+[0m[[31merror[0m] [0m	test("odd numbers properly defined") {[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:7: not found: value test[0m
+[0m[[31merror[0m] [0m	test("sumDouble test 1") {[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:11: not found: value test[0m
+[0m[[31merror[0m] [0m	test("sumDouble test 2") {[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:15: not found: value test[0m
+[0m[[31merror[0m] [0m	test("countEvens test 1") {[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:19: not found: value test[0m
+[0m[[31merror[0m] [0m	test("removeZeroes test 1"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:23: not found: value test[0m
+[0m[[31merror[0m] [0m	test("removeAlternating test 1"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:27: not found: value test[0m
+[0m[[31merror[0m] [0m	test("isAscending test true"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:31: not found: value test[0m
+[0m[[31merror[0m] [0m	test("isAscending test false"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:35: not found: value test[0m
+[0m[[31merror[0m] [0m	test("addSub test"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:39: not found: value test[0m
+[0m[[31merror[0m] [0m	test("alternate test"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:42: not found: value test[0m
+[0m[[31merror[0m] [0m	test("fromTo test"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:45: not found: value test[0m
+[0m[[31merror[0m] [0m	test("insertOrdered test"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\cygwin64\home\David\compsci220\hw1\src\test\scala\TestSuite.scala:48: not found: value test[0m
+[0m[[31merror[0m] [0m	test("sort test"){[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0m14 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(test:[31mcompileIncremental[0m) Compilation failed[0m

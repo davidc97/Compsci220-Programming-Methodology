@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Have life expectancies from 1930 -- 2010[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: TestSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.OutOfMemoryError: Java heap space[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.VectorPointer$class.copyOf(Vector.scala:956)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.copyOf(Vector.scala:62)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.VectorPointer$class.gotoPosWritable1(Vector.scala:1055)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.gotoPosWritable1(Vector.scala:62)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.gotoPosWritable(Vector.scala:260)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.appendBack(Vector.scala:380)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.$colon$plus(Vector.scala:153)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.github.tototoshi.csv.CSVParser$.parse(CSVParser.scala:162)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.github.tototoshi.csv.CSVParser.parseLine(CSVParser.scala:301)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.github.tototoshi.csv.CSVReader.parseNext$1(CSVReader.scala:42)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

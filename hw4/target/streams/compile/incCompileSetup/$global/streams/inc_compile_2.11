@@ -1,0 +1,239 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$$anonfun$dequeue$1.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$$anonfun$rest$1.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$$anonfun$rest$2.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Empty$.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Empty.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Join$.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Join.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\JoinList.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Queue$.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Queue.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Singleton$.class
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Singleton.class
+binary dependencies:
+4 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\Program Files\Java\jre1.8.0_66\lib\rt.jar
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\Program Files\Java\jre1.8.0_66\lib\rt.jar
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> FunctionalDataStructures
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> FunctionalDataStructures$
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> FunctionalDataStructures$$anonfun$dequeue$1
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> FunctionalDataStructures$$anonfun$rest$1
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> FunctionalDataStructures$$anonfun$rest$2
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Empty
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Empty$
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Join
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Join$
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> JoinList
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Queue
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Queue$
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Singleton
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Singleton$
+used names:
+101 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> !=
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> &&
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> +
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> -
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> ::
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> <init>
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> ==
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> A
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> AnyRef
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> B
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Boolean
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Function1
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Function2
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> FunctionalDataStructures
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Int
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> JoinList
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> List
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Nil
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> None
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Option
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Queue
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> Tuple2
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> _1
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> _2
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> _root_
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> a
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> apply
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> asInstanceOf
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> b
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> back
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> c
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> compare
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> elt
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> f
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> filter
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> first
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> front
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> get
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> h
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> head
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> immutable
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> isEmpty
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> isInstanceOf
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> lengthCompare
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> lst
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> lst1
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> lst2
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> map
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> max
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> n
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> ne
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> nth
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> pred
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> q
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> rest
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> reverse
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> scala
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> size
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> t
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> unapplySeq
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> unary_!
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> x
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> y
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> z
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> &&
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> <init>
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> ==
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> A
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> AnyRef
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Empty
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Int
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Join
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> JoinList
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> List
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> None
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Product
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Queue
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> ScalaRunTime
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Serializable
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Singleton
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> Statics
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> _hashCode
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> _toString
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> anyHash
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> asInstanceOf
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> back
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> elt
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> eq
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> finalizeHash
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> front
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> isInstanceOf
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> lst1
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> lst2
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> mix
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> package
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> runtime
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> scala
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> size
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> toString
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> typedProductIterator
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> ||
+product stamps:
+14 items
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Empty$.class -> lastModified(1455519653826)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Empty.class -> lastModified(1455519653838)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$$anonfun$dequeue$1.class -> lastModified(1455753895278)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$$anonfun$rest$1.class -> lastModified(1455753895283)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$$anonfun$rest$2.class -> lastModified(1455753895287)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures$.class -> lastModified(1455753895275)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\FunctionalDataStructures.class -> lastModified(1455753895265)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Join$.class -> lastModified(1455519653954)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Join.class -> lastModified(1455519653949)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\JoinList.class -> lastModified(1455519653957)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Queue$.class -> lastModified(1455519653963)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Queue.class -> lastModified(1455519653972)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Singleton$.class -> lastModified(1455519653984)
+C:\cygwin64\home\David\compsci220\hw4\target\scala-2.11\classes\Singleton.class -> lastModified(1455519653979)
+source stamps:
+2 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> hash(ef2a8b0093ee130a822415c33628687d05f5ab7d)
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> hash(8b2b2b2c0eea449249c8a7e3771e1fd608e84453)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_66\lib\rt.jar -> lastModified(1449522347784)
+C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_66\lib\rt.jar -> java.lang.Object
+C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.collection.TraversableLike
+internal apis:
+2 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBwMov4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIPOoD50AAZub3RpZnlzcQB+AAxshfFVdAAHZGVxdWV1ZXNxAH4ADP+GjqR0AAR3YWl0c3EAfgAMPbDXIHQADSRhc0luc3RhbmNlT2ZzcQB+AAwZ1/z1dAADbWFwc3EAfgAMn8SUZXQABmVxdWFsc3NxAH4ADKqv7cB0AARyZXN0c3EAfgAMUszfIXQADGFzSW5zdGFuY2VPZnNxAH4ADMAk/aN0AAxzeW5jaHJvbml6ZWRzcQB+AAzjICWjdAANJGlzSW5zdGFuY2VPZnNxAH4ADKKs51J0AAdlbnF1ZXVlc3EAfgAM2Qjz0HQACW5vdGlmeUFsbHNxAH4ADA7vD7J0AAxpc0luc3RhbmNlT2ZzcQB+AAyHyYQ0dAAGZmlsdGVyc3EAfgAMcL3xqXQAA21heHNxAH4ADFlLPDV0ABhGdW5jdGlvbmFsRGF0YVN0cnVjdHVyZXNzcQB+AAxqLUbMdAACPT1zcQB+AAySwkfOdAAFY2xvbmVzcQB+AAxjiwc5dAADbnRoc3EAfgAMLWao6XQABWZpcnN0c3EAfgAMFXiiDXQACHRvU3RyaW5nc3EAfgAMP6TutHQAAiE9c3EAfgAM/VGJoXQACGdldENsYXNzc3EAfgAMM2ThYHQAAm5lc3EAfgAMFkthXHQAAmVxc3EAfgAMV3yywXQAAiMjc3EAfgAMBCWyBHQACGZpbmFsaXplc3EAfgAMaAHj+nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBmAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG1zcQB+AGYBdXEAfgBKAAAAAHBzcQB+AGYBdXEAfgBKAAAAAHBzcQB+AGYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBsdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCFdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCGc3EAfgB5dAADQW55c3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXQABXNjYWxhcQB+AIxwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFS8bGZe3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD9DOlxjeWd3aW42NFxob21lXERhdmlkXGNvbXBzY2kyMjBcaHc0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTvKosAk+4TCoIkFcM2KGh9BfWrfQ==
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBbPVhDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOhLxmV0AAZub3RpZnlzcQB+AAyfcFhPdAADZWx0c3EAfgAMn6KtW3QABGxzdDFzcQB+AAzhkg9OdAAEd2FpdHNxAH4ADO8skTl0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADAtCCz50AA0kYXNJbnN0YW5jZU9mc3EAfgAMLa0WhnQABHNpemVzcQB+AAw+U8M4dAAMcHJvZHVjdEFyaXR5c3EAfgAMLOVrk3QACVNpbmdsZXRvbnNxAH4ADOl8qMN0AAZlcXVhbHNzcQB+AAzcF0ycdAAFZnJvbnRzcQB+AAyTdL2odAAMYXNJbnN0YW5jZU9mc3EAfgAMMEuNz3QADHN5bmNocm9uaXplZHNxAH4ADHoB1g90AA0kaXNJbnN0YW5jZU9mc3EAfgAM6WWJH3QACGNhbkVxdWFsc3EAfgAMQ7aSA3QADXByb2R1Y3RQcmVmaXhzcQB+AAzegNvjdAAEbHN0MnNxAH4ADDikeEd0AAlub3RpZnlBbGxzcQB+AAzb/1+YdAAMaXNJbnN0YW5jZU9mc3EAfgAM7zuJ63QABjxpbml0PnNxAH4ADFIV8rJ0AAhKb2luTGlzdHNxAH4ADLSccXB0AAVFbXB0eXNxAH4ADHJdL290AAI9PXNxAH4ADPwG3mx0AAVjbG9uZXNxAH4ADOw7/Ed0AARiYWNrc3EAfgAMYEr3k3QABVF1ZXVlc3EAfgAMeBzWh3QADmNvcHkkZGVmYXVsdCQzc3EAfgAMzLoZ43QABGNvcHlzcQB+AAydDaXWdAAIdG9TdHJpbmdzcQB+AAwBW680dAAESm9pbnNxAH4ADAmr0jN0AAIhPXNxAH4ADIRahjZ0AAhnZXRDbGFzc3NxAH4ADHZHuOl0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADOD+zCZ0AAJuZXNxAH4ADFgxIU90AAJlcXNxAH4ADLtO7B10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzpw7PVdAACIyNzcQB+AAw5J1qTdAAIZmluYWxpemVzcQB+AAxoZ1y1dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwvhJ3ldAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AEF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AbEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AGlMAAp1cHBlckJvdW5kcQB+AHlMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AHIAAAAAdAAHUXVldWUuQXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCAc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAV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+AH5xAH4AxHNxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIxxAH4AvHNxAH4AjHEAfgDKcQB+AJFzcQB+AH5xAH4AlHEAfgEEcHBzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAcQB+AB91cQB+AHYAAAABc3EAfgB4dXEAfgByAAAAAHQAC1NpbmdsZXRvbi5BcQB+AIJ1cQB+AHYAAAAAcQB+AJNxAH4Al3EAfgCadXEAfgCcAAAAAHNxAH4AngBwc3EAfgCjcQB+AKZzcQB+AJ4Bc3EAfgCoc3EAfgCeAXVxAH4AYgAAAABwc3EAfgCeAXVxAH4AYgAAAABwc3EAfgCeAXVxAH4ArwAAAAdzcQB+AH5xAH4AsnNxAH4AhHNxAH4Ah3VxAH4AigAAAAJzcQB+AIxxAH4Aj3EAfgCRc3EAfgB+cQB+ALJzcQB+AIRzcQB+AId1cQB+AIoAAAADc3EAfgCMcQB+ALxzcQB+AIx0AAJpb3EAfgCRc3EAfgB+cQB+AMBxAH4BOXNxAH4AfnQABkVxdWFsc3EAfgE5c3EAfgESc3EAfgB+dAAISm9pbkxpc3RzcQB+AIRzcQB+AId1cQB+AIoAAAABcQB+AJF1cQB+AK8AAAABc3EAfgEbcQB+AStzcQB+AH5xAH4AxHNxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIxxAH4AvHNxAH4AjHEAfgDKcQB+AJFzcQB+AH5xAH4AlHEAfgE5cHBzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAcQB+AEl1cQB+AHYAAAABc3EAfgB4dXEAfgByAAAAAHQABkpvaW4uQXEAfgCCdXEAfgB2AAAAAHEAfgCTcQB+AJdxAH4AmnVxAH4AnAAAAABzcQB+AJ4AcHNxAH4Ao3EAfgCmc3EAfgCeAXNxAH4AqHNxAH4AngF1cQB+AGIAAAAAcHNxAH4AngF1cQB+AGIAAAAAcHNxAH4AngF1cQB+AK8AAAAHc3EAfgB+cQB+ALJzcQB+AIRzcQB+AId1cQB+AIoAAAACc3EAfgCMcQB+AI9xAH4AkXNxAH4AfnEAfgCyc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgC8c3EAfgCMdAACaW9xAH4AkXNxAH4AfnEAfgDAcQB+AWpzcQB+AH50AAZFcXVhbHNxAH4BanNxAH4BEnNxAH4AfnQACEpvaW5MaXN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAAXEAfgCRdXEAfgCvAAAAAXNxAH4BG3QABkpvaW4uQXNxAH4AfnEAfgDEc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgC8c3EAfgCMcQB+AMpxAH4AkXNxAH4AfnEAfgCUcQB+AWpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFS47sqR3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD9DOlxjeWd3aW42NFxob21lXERhdmlkXGNvbXBzY2kyMjBcaHc0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSLKyssDupEkknIp+N3Hh/WCOhEUw==
+external apis:
+0 items
+source infos:
+2 items
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Solution.scala -> 
+AAAAAAAAAAA=
+C:\cygwin64\home\David\compsci220\hw4\src\main\scala\Types.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUuO7Kkd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUuwDDol1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUuwf1Sx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvDimfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvD5uPd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvEqEuB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvErgt91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvEsEJR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvGGzuh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvGNSjd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvGhFQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvGqE8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUvGxmXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

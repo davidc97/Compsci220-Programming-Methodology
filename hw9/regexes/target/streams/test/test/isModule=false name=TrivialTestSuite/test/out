@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mTrivialTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Regexes object must be defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- notAlphanumeric test[0m[0m
+[0m[[0minfo[0m] [0m[32m- notAlphanumeric test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- time test[0m[0m
+[0m[[0minfo[0m] [0m[32m- time test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- phone number test[0m[0m
+[0m[[0minfo[0m] [0m[32m- phone number test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- comment test[0m[0m
+[0m[[0minfo[0m] [0m[32m- comment test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- numberPhrase test[0m[0m
+[0m[[0minfo[0m] [0m[32m- roman test[0m[0m
+[0m[[0minfo[0m] [0m[32m- date test[0m[0m
+[0m[[0minfo[0m] [0m[32m- evenParity test[0m[0m

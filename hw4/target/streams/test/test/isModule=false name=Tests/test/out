@@ -1,0 +1,22 @@
+[0m[[0minfo[0m] [0m[32mTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- enqueue test[0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- max test empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- max test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- max test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- max test 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- first test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- first test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- first test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- rest test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- rest test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- rest test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- rest test 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- rest test 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- map test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- map test empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter test empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- nth test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- nth test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- nth test 3[0m[0m

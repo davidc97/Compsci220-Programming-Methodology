@@ -1,0 +1,245 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithEval$.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithEval.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$11.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$13$$anonfun$apply$14.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$13.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$15.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$16.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$9$$anonfun$apply$10.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$9.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$1.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$2$$anonfun$apply$3.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$2$$anonfun$apply$4.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$2.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$5$$anonfun$apply$6.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$5.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$7.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$8.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$17$$anonfun$apply$18.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$17.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$19.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$21$$anonfun$apply$22.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$21.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$23.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$24.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithPrinter$.class
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithPrinter.class
+binary dependencies:
+4 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\Users\David\.ivy2\cache\edu.umass.cs\compsci220_2.11\jars\compsci220_2.11-1.1.0.jar
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\Users\David\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithEval
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithEval$
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$11
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$12
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$13
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$13$$anonfun$apply$14
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$15
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$16
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$9
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$add$1$$anonfun$apply$9$$anonfun$apply$10
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$atom$1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$atom$1$$anonfun$apply$1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$atom$1$$anonfun$apply$2
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$atom$1$$anonfun$apply$2$$anonfun$apply$3
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$atom$1$$anonfun$apply$2$$anonfun$apply$4
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$exponent$1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$exponent$1$$anonfun$apply$5
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$exponent$1$$anonfun$apply$5$$anonfun$apply$6
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$exponent$1$$anonfun$apply$7
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$exponent$1$$anonfun$apply$8
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$17
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$17$$anonfun$apply$18
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$19
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$20
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$21
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$21$$anonfun$apply$22
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$23
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser$$anonfun$mul$1$$anonfun$apply$24
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithPrinter
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithPrinter$
+used names:
+52 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> *
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> +
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> -
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> /
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> <init>
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> <~
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithEval
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithEvalLike
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParser
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithParserLike
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithPrinter
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ArithPrinterLike
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> Double
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> Expr
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> Math
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> PackratParser
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> Predef
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> String
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ^^
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> _1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> _2
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> add
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> asInstanceOf
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> atom
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> combinator
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> e
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> e1
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> e2
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> eval
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> exponent
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> expr
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> hw
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> isInstanceOf
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> java
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> lang
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> literal
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> mul
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> n
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ne
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> number
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> parser2packrat
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> parsing
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> pow
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> print
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> scala
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> toString
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> util
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> x
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> y
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> |
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ~
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> ~>
+product stamps:
+34 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithEval$.class -> lastModified(1461620598807)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithEval.class -> lastModified(1461620598800)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$11.class -> lastModified(1461620598891)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$13$$anonfun$apply$14.class -> lastModified(1461620598906)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$13.class -> lastModified(1461620598902)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12$$anonfun$apply$15.class -> lastModified(1461620598909)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$12.class -> lastModified(1461620598900)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$16.class -> lastModified(1461620598911)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1461620598915)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1$$anonfun$apply$9.class -> lastModified(1461620598913)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$add$1.class -> lastModified(1461620598885)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$1.class -> lastModified(1461620598923)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1461620598929)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$2$$anonfun$apply$4.class -> lastModified(1461620598932)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1$$anonfun$apply$2.class -> lastModified(1461620598927)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$atom$1.class -> lastModified(1461620598918)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1461620598940)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$5.class -> lastModified(1461620598938)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$7.class -> lastModified(1461620598943)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1$$anonfun$apply$8.class -> lastModified(1461620598946)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$exponent$1.class -> lastModified(1461620598935)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$17$$anonfun$apply$18.class -> lastModified(1461620598956)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$17.class -> lastModified(1461620598951)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$19.class -> lastModified(1461620598960)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$21$$anonfun$apply$22.class -> lastModified(1461620598978)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$21.class -> lastModified(1461620598974)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20$$anonfun$apply$23.class -> lastModified(1461620598983)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$20.class -> lastModified(1461620598968)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1$$anonfun$apply$24.class -> lastModified(1461620598986)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$$anonfun$mul$1.class -> lastModified(1461620598949)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser$.class -> lastModified(1461620598882)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithParser.class -> lastModified(1461620598828)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithPrinter$.class -> lastModified(1461620598992)
+C:\cygwin64\home\David\compsci220\hw10\parsing\target\scala-2.11\classes\ArithPrinter.class -> lastModified(1461620598988)
+source stamps:
+1 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> hash(97d581f69f0beeb1cab2c27d618528aeab3ea5a5)
+binary stamps:
+4 items
+C:\Program Files\Java\jre1.8.0_91\lib\rt.jar -> lastModified(1461122503555)
+C:\Users\David\.ivy2\cache\edu.umass.cs\compsci220_2.11\jars\compsci220_2.11-1.1.0.jar -> lastModified(1459003629000)
+C:\Users\David\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar -> lastModified(1430402820000)
+C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+4 items
+C:\Program Files\Java\jre1.8.0_91\lib\rt.jar -> java.lang.Object
+C:\Users\David\.ivy2\cache\edu.umass.cs\compsci220_2.11\jars\compsci220_2.11-1.1.0.jar -> hw.parsing.ArithPrinterLike
+C:\Users\David\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar -> scala.util.parsing.combinator.RegexParsers
+C:\Users\David\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Predef$
+internal apis:
+1 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDrOfnQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAEc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwnMnj4XQAB2xpdGVyYWxzcQB+AAtiSPVtdAAGYWNjZXB0c3EAfgALyQ/oxHQABXJlZ2V4c3EAfgALDhfZaHQADnBhcnNlcjJwYWNrcmF0dXEAfgAJAAAAiHNxAH4ACxHoLqR0ABB3aXRoRXJyb3JNZXNzYWdlc3EAfgAL52woPXQACndpdGhGaWx0ZXJzcQB+AAuAURNXdAACXl5zcQB+AAtwD5mmdAAPZmxhdE1hcFdpdGhOZXh0c3EAfgAL+nRD0nQABm5vdGlmeXNxAH4AC0JzV0l0AAZudW1iZXJzcQB+AAtDpKDjdAAHZmFpbHVyZXNxAH4AC5q8EeF0AAd1bmFwcGx5c3EAfgAL5G2u/XQAB2N1cnJpZWRzcQB+AAv1aeJndAAMQXJpdGhQcmludGVyc3EAfgALRtYMrnQABG5hbWVzcQB+AAvDJBQtdAALQXJpdGhQYXJzZXJzcQB+AAuh80rtdAADfHx8c3EAfgALaVphJ3QAB3N1Y2Nlc3NzcQB+AAuDf43SdAAGc291cmNlc3EAfgALebhIenQABHdhaXR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AC5Z9qlB0ABJ3aXRoRmFpbHVyZU1lc3NhZ2VzcQB+AAsbmWHQdAAIZ2V0Q2xhc3NzcQB+AAtl4x4cdAAFZ3VhcmRzcQB+AAuiSMn7dAAOY29weSRkZWZhdWx0JDFzcQB+AAsYjAD6dAAHY2hhaW5sMXNxAH4AC3PkTIp0AAZQYXJzZXJzcQB+AAsuPUuedAAHU3VjY2Vzc3NxAH4AC4KlnW90AA5yZWN1cnNpb25IZWFkc3NxAH4AC9dtML10AANyZXBzcQB+AAuxqYK2dAAHaXNFbXB0eXNxAH4AC9WT8HJ0AAJuZXNxAH4AC5t04Wp0AAI8fnNxAH4AC6eHvV10AANhZGRzcQB+AAsGogbWdAABfnNxAH4AC10g19F0AApPbmNlUGFyc2Vyc3EAfgALZzur73QABGVsZW1zcQB+AAt0wtAbdAAEbWVtb3NxAH4AC2bGnt90AAlhY2NlcHRTZXFzcQB+AAtYbjc2dAACZXFzcQB+AAu8qn7rdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL9XM1/3QAA2xvZ3NxAH4ACzu8jxR0AAZyZXBzZXBzcQB+AAsIl8UbdAACfiFzcQB+AAvlhKBJdAACIyNzcQB+AAtQA1EgdAAIZmluYWxpemVzcQB+AAucnH+3dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAugPm9sdAAIaGFzaENvZGVzcQB+AAvp9Y09dAAHY2hhaW5yMXNxAH4ACy8sOe50AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgEveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ALt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AUYBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AS9MAAlpbmhlcml0ZWRxAH4BL0wAB3BhcmVudHNxAH4BL3hxAH4BTXN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
+external apis:
+0 items
+source infos:
+1 items
+C:\cygwin64\home\David\compsci220\hw10\parsing\src\main\scala\Solution.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE7N8Bp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE7fwmB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE8dqMh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE8dyel1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE8hClB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE83wCV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE890HZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE9HLFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE9MarN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVE9gYXZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGN5Z3dpbjY0XGhvbWVcRGF2aWRcY29tcHNjaTIyMFxodzEwXHBhcnNpbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

@@ -1,0 +1,130 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/student/hw1/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> /home/student/hw1/target/scala-2.11/classes/Lecture1$.class
+/home/student/hw1/src/main/scala/Lecture1.scala -> /home/student/hw1/target/scala-2.11/classes/Lecture1.class
+binary dependencies:
+2 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> /home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/student/hw1/src/main/scala/Lecture1.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> Lecture1
+/home/student/hw1/src/main/scala/Lecture1.scala -> Lecture1$
+used names:
+46 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> %
+/home/student/hw1/src/main/scala/Lecture1.scala -> *
+/home/student/hw1/src/main/scala/Lecture1.scala -> +
+/home/student/hw1/src/main/scala/Lecture1.scala -> -
+/home/student/hw1/src/main/scala/Lecture1.scala -> ::
+/home/student/hw1/src/main/scala/Lecture1.scala -> <
+/home/student/hw1/src/main/scala/Lecture1.scala -> <=
+/home/student/hw1/src/main/scala/Lecture1.scala -> <init>
+/home/student/hw1/src/main/scala/Lecture1.scala -> ==
+/home/student/hw1/src/main/scala/Lecture1.scala -> >=
+/home/student/hw1/src/main/scala/Lecture1.scala -> AnyRef
+/home/student/hw1/src/main/scala/Lecture1.scala -> Boolean
+/home/student/hw1/src/main/scala/Lecture1.scala -> Int
+/home/student/hw1/src/main/scala/Lecture1.scala -> Lecture1
+/home/student/hw1/src/main/scala/Lecture1.scala -> List
+/home/student/hw1/src/main/scala/Lecture1.scala -> Nil
+/home/student/hw1/src/main/scala/Lecture1.scala -> Predef
+/home/student/hw1/src/main/scala/Lecture1.scala -> String
+/home/student/hw1/src/main/scala/Lecture1.scala -> _1
+/home/student/hw1/src/main/scala/Lecture1.scala -> _2
+/home/student/hw1/src/main/scala/Lecture1.scala -> addSub
+/home/student/hw1/src/main/scala/Lecture1.scala -> alternate
+/home/student/hw1/src/main/scala/Lecture1.scala -> asInstanceOf
+/home/student/hw1/src/main/scala/Lecture1.scala -> countEvens
+/home/student/hw1/src/main/scala/Lecture1.scala -> fromTo
+/home/student/hw1/src/main/scala/Lecture1.scala -> head
+/home/student/hw1/src/main/scala/Lecture1.scala -> immutable
+/home/student/hw1/src/main/scala/Lecture1.scala -> insertOrdered
+/home/student/hw1/src/main/scala/Lecture1.scala -> isAscending
+/home/student/hw1/src/main/scala/Lecture1.scala -> isInstanceOf
+/home/student/hw1/src/main/scala/Lecture1.scala -> lst
+/home/student/hw1/src/main/scala/Lecture1.scala -> lst2
+/home/student/hw1/src/main/scala/Lecture1.scala -> n
+/home/student/hw1/src/main/scala/Lecture1.scala -> ne
+/home/student/hw1/src/main/scala/Lecture1.scala -> oddNumbers
+/home/student/hw1/src/main/scala/Lecture1.scala -> package
+/home/student/hw1/src/main/scala/Lecture1.scala -> removeAlternating
+/home/student/hw1/src/main/scala/Lecture1.scala -> removeZeroes
+/home/student/hw1/src/main/scala/Lecture1.scala -> rest
+/home/student/hw1/src/main/scala/Lecture1.scala -> rest2
+/home/student/hw1/src/main/scala/Lecture1.scala -> scala
+/home/student/hw1/src/main/scala/Lecture1.scala -> sort
+/home/student/hw1/src/main/scala/Lecture1.scala -> sumDouble
+/home/student/hw1/src/main/scala/Lecture1.scala -> tail
+/home/student/hw1/src/main/scala/Lecture1.scala -> x
+/home/student/hw1/src/main/scala/Lecture1.scala -> y
+product stamps:
+2 items
+/home/student/hw1/target/scala-2.11/classes/Lecture1$.class -> lastModified(1453946380000)
+/home/student/hw1/target/scala-2.11/classes/Lecture1.class -> lastModified(1453946380000)
+source stamps:
+1 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> hash(1d56b316ea53c512d624b58f5f4ed3089de2e322)
+binary stamps:
+2 items
+/home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1453467949000)
+class names:
+2 items
+/home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Int
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBxZWNhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGjBzTR0AAZub3RpZnlzcQB+AAz9yWwNdAAJc3VtRG91Ymxlc3EAfgAMoZu1DXQABmZyb21Ub3NxAH4ADGsG4nd0AAR3YWl0c3EAfgAMxcQ93nQADSRhc0luc3RhbmNlT2ZzcQB+AAw+WCC6dAAGZXF1YWxzc3EAfgAM1Na9S3QADHJlbW92ZVplcm9lc3NxAH4ADBM0MFx0AAxhc0luc3RhbmNlT2ZzcQB+AAwh8+9VdAALaXNBc2NlbmRpbmdzcQB+AAzuojZCdAAMc3luY2hyb25pemVkc3EAfgAMpzhCMnQADSRpc0luc3RhbmNlT2ZzcQB+AAxHgDyjdAAGYWRkU3Vic3EAfgAMwPxhp3QACm9kZE51bWJlcnNzcQB+AAzzS1+GdAAJbm90aWZ5QWxsc3EAfgAMBH7ONXQACWFsdGVybmF0ZXNxAH4ADAzuOjp0AAxpc0luc3RhbmNlT2ZzcQB+AAzwQUVjdAAKY291bnRFdmVuc3NxAH4ADKITJ4x0AAI9PXNxAH4ADI3Cmy90AAhMZWN0dXJlMXNxAH4ADEItoT50AAVjbG9uZXNxAH4ADFxLxet0AA1pbnNlcnRPcmRlcmVkc3EAfgAMK/oQTXQACHRvU3RyaW5nc3EAfgAMxlS+H3QAAiE9c3EAfgAMWg0BunQACGdldENsYXNzc3EAfgAMM5UqAHQABHNvcnRzcQB+AAxZsuLhdAARcmVtb3ZlQWx0ZXJuYXRpbmdzcQB+AAxscjcEdAACbmVzcQB+AAzKzU1adAACZXFzcQB+AAxQsc/4dAACIyNzcQB+AAyDO3C4dAAIZmluYWxpemVzcQB+AAy+1TuqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4Ac3NxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AH90AANBbnlzcQB+AINzcQB+AIZ1cQB+AIkAAAACc3EAfgCLdAAFc2NhbGFxAH4AknBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVKF9RwIdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKy9ob21lL3N0dWRlbnQvaHcxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQdVrMW6lPFEtYktY9fTtMIneLjIg==
+external apis:
+0 items
+source infos:
+1 items
+/home/student/hw1/src/main/scala/Lecture1.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUoXo8Tt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3N0dWRlbnQvaHcxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUoXqNKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3N0dWRlbnQvaHcxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUoX1HAh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3N0dWRlbnQvaHcxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
